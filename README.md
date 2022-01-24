@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Enzo</h1>
+<h1 align="center">Hi there 👋, I'm <span><a href="https://github.com/enzomoraes/enzomoraes"/>Enzo</span></h1>
 
 <h3 align="center">Recently Graduated in Software Engineering</h3>
 
