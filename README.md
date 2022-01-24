@@ -4,7 +4,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzomoraes&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="enzomoraes commits" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomoraes&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomoraes&langs_count=7&theme=nord&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
