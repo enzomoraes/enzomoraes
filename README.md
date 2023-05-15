@@ -37,7 +37,7 @@
 
 👯 I’m looking to collaborate on open source projects
 
-📫 This is where you can mail me: **enzomoraes12@hotmail.com**
+📫 This is where you can mail me: **enzomoraes55@gmail.com**
 
 ⚡ Fun fact: I'm currently learning *Deutsch*
 
