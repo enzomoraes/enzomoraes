@@ -31,15 +31,15 @@
 </div>
 
    ##
-🔭 I’m currently working on my **Node.js skills**
+🔭 I’m currently working on my **Rust skills**
 
-🌱 I’m currently learning **Clean Architecture**
+🌱 I’m currently learning **Machine Learning**
 
 👯 I’m looking to collaborate on open source projects
 
 📫 This is where you can mail me: **enzomoraes55@gmail.com**
 
-⚡ Fun fact: I'm currently learning *Deutsch*
+⚡ Fun fact: I hate if statements, and am in a mission to erase all of them
 
    ##
 
